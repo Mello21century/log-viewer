@@ -10,7 +10,7 @@
 
 namespace Juzaweb\LogViewer\Providers;
 
-use Juzaweb\CMS\Support\ServiceProvider;
+use Juzaweb\Support\ServiceProvider;
 
 class LogViewerServiceProvider extends ServiceProvider
 {
