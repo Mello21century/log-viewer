@@ -23,7 +23,7 @@ use Illuminate\Http\Request;
 use Illuminate\Pagination\LengthAwarePaginator;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Str;
-use Juzaweb\CMS\Http\Controllers\BackendController;
+use Juzaweb\Http\Controllers\BackendController;
 use Symfony\Component\HttpFoundation\BinaryFileResponse;
 
 class LogViewerController extends BackendController
